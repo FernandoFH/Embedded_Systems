@@ -1,6 +1,7 @@
 🎓 Roadmap learning embedded system [Maestria UBA](http://laboratorios.fi.uba.ar/lse/maestria.html)
 _________
-# Especialización en Sistemas Embebidos 
+#### Especialización en Sistemas Embebidos 
+
 ## I 
 * Gestión de Proyectos de Ingeniería 
 https://sites.google.com/site/seminariogpi/
@@ -51,7 +52,7 @@ https://campus.fi.uba.ar/course/view.php?id=1449
 * Procesamiento Digital de Señales 
 https://sites.google.com/site/dspdigcomfpga/dsp
 
-# Maestría en Sistemas Embebidos
+#### Maestría en Sistemas Embebidos
 ## VI 
 * Sistemas digitales para comunicaciones en FPGA
 https://sites.google.com/site/dspdigcomfpga/Sistemas-digitales-para-comunicaciones-en-fpga
