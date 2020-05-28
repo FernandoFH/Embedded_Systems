@@ -1,5 +1,4 @@
-# 🎓 Embedded Systems Playground
-Roadmap learning embedded system [Maestria UBA](http://laboratorios.fi.uba.ar/lse/maestria.html)
+🎓 Roadmap learning embedded system [Maestria UBA](http://laboratorios.fi.uba.ar/lse/maestria.html)
 _________
 # Especialización en Sistemas Embebidos 
 ## I 
