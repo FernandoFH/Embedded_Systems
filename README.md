@@ -2,6 +2,7 @@
 - https://www.coursera.org/specializations/fpga-design
 - https://www.coursera.org/specializations/embedded-systems-security
 - https://sites.google.com/site/disenodesistemascriticos/p%C3%A1gina-principal?authuser=0
+- https://github.com/FernandoFH/Embedded-Software-Engineer-Roadmap
 
 https://sites.google.com/site/controlsistemasembebidos/p%C3%A1gina-principal?authuser=0
 https://sites.google.com/site/disenodesistemascriticos/p%C3%A1gina-principal?authuser=0
