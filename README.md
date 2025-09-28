@@ -2,6 +2,9 @@
 - https://www.coursera.org/specializations/fpga-design
 - https://www.coursera.org/specializations/embedded-systems-security
 - https://sites.google.com/site/disenodesistemascriticos/p%C3%A1gina-principal?authuser=0
+
+- https://github.com/FernandoFH/aws-fpga
+- https://github.com/FernandoFH/hardware_hacking_es
 - https://github.com/FernandoFH/Embedded-Software-Engineer-Roadmap
 
 https://sites.google.com/site/controlsistemasembebidos/p%C3%A1gina-principal?authuser=0
@@ -64,10 +67,7 @@ https://sites.google.com/site/disenodecircuitosimpresoscese/home/CalendarioyTeor
 
 * Diseño de Sistemas Críticos
 https://sites.google.com/site/disenodesistemascriticos/
-
 ___________
 
-- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
-- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/index.htm
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/index.htm
 - https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-885j-aircraft-systems-engineering-fall-2005/index.htm
